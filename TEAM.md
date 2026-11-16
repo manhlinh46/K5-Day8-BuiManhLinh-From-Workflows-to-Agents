@@ -2,17 +2,18 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: [TỰ ĐIỀN]
 - Lớp: L3A
-- Repo nhóm: `K5-L3A-DAY08-TenNhom-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- Repo nhóm theo yêu cầu: `K5-L3A-DAY08-[TenNhom]-FromWorkflowsToAgents` (thay `[TenNhom]` sau khi chốt tên nhóm; repo origin hiện tại chưa theo mẫu)
+- URL repo hiện tại: https://github.com/manhlinh46/K5-Day8-BuiManhLinh-From-Workflows-to-Agents
+- Nhánh nộp: `main`
+- Commit chốt: [CẦN CẬP NHẬT SAU KHI COMMIT CÁC THAY ĐỔI CUỐI]
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
-|   2 |        |      |       |        |         |
+|   1 | Bùi Mạnh Linh | 2A202603539 | 26ai.linhbm@vinuni.edu.vn | manhlinh46 | Thành viên duy nhất — triển khai và kiểm thử |
 
 Gợi ý chia vai:
 
@@ -25,7 +26,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Bùi Mạnh Linh | Triển khai ba shape, benchmark, báo cáo và kiểm thử | Chưa commit — điền hash sau commit | `src/tests/test_student_shapes_trace.py` (thêm); ma trận T01–T14 |
 
 ## Cá nhân
 
