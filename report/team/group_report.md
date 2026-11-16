@@ -4,9 +4,10 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: [CẦN TỰ CHỐT VÀ ĐIỀN]
-- Thành viên: Bùi Mạnh Linh (MSSV 2A202603539; chi tiết trong `TEAM.md`)
-- Commit chốt: [CẦN ĐIỀN SAU KHI COMMIT]
+- Tên nhóm: Bùi Mạnh Linh
+- Thành viên: Bùi Mạnh Linh 
+- Commit chốt: 034c6c4
+ 
 
 ## 2. Mục tiêu và cách tiếp cận
 

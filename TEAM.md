@@ -7,7 +7,8 @@
 - Repo nhóm theo yêu cầu: `K5-L3A-DAY08-[TenNhom]-FromWorkflowsToAgents` (thay `[TenNhom]` sau khi chốt tên nhóm; repo origin hiện tại chưa theo mẫu)
 - URL repo hiện tại: https://github.com/manhlinh46/K5-Day8-BuiManhLinh-From-Workflows-to-Agents
 - Nhánh nộp: `main`
-- Commit chốt: [CẦN CẬP NHẬT SAU KHI COMMIT CÁC THAY ĐỔI CUỐI]
+- Commit chốt: 034c6c4
+ 
 
 ## Thành viên
 
